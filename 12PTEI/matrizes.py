@@ -4,7 +4,7 @@
     Observação......:Matriz
 '''
 
-import numpy
+import numpy as np
 
 print("Análise de matrizes")
 matriz1D = np.array([1, 2, 3, 4])
